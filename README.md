@@ -69,6 +69,8 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/video-stream)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FNnnnnnnnnnnoip%2Fvideo-stream.git&envs=ALIVE_NAME%2CAPI_HASH%2CAPI_ID%2CASSISTANT_NAME%2CBOT_NAME%2CBOT_TOKEN%2CBOT_USERNAME%2CGROUP_SUPPORT%2COWNER_NAME%2CSESSION_NAME%2CSUDO_USERS%2CUPDATES_CHANNEL&ALIVE_NAMEDefault=NANDAN_SINGH_OP&GROUP_SUPPORTDefault=VAMPIRES_OFFICIAL&OWNER_NAMEDefault=OWNER_OF_TEAM_VAMPIRES&UPDATES_CHANNELDefault=VAMPIRES_NETWORK&referralCode=0he9k9)
+
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
 
